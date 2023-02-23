@@ -36,3 +36,12 @@ body{
     margin-left: 35%;
     position: absolute;
 }
+section{
+    padding: 12%;
+    font-size: 140%;
+}
+#about-right{
+padding-right: 7%;
+padding-left: 7%;
+padding-bottom: 3%;
+}
